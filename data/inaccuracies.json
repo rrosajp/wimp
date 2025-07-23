@@ -10,9 +10,9 @@
         "Priyanka Dey"
       ],
       "slots": [
-        "H21",
+        "H32",
         "P",
-        "H32"
+        "H21"
       ],
       "rooms": []
     },
@@ -75,13 +75,13 @@
       "code": "AR30203",
       "course_name": "SPECIFICATION, ESTIMATION AND COSTING",
       "professors": [
-        "Subrata Chattopadhyay",
-        "Priyanka Dey"
+        "Priyanka Dey",
+        "Subrata Chattopadhyay"
       ],
       "slots": [
-        "E31",
         "E32",
-        "E33"
+        "E33",
+        "E31"
       ],
       "rooms": []
     },
@@ -111,8 +111,8 @@
       "code": "BS10003",
       "course_name": "SCIENCE OF LIVING SYSTEMS",
       "professors": [
-        "Abhijit Das",
         "Soumya De",
+        "Abhijit Das",
         "Dibyendu Samanta"
       ],
       "slots": [
@@ -150,9 +150,9 @@
         "Abhijit Das"
       ],
       "slots": [
-        "A33",
         "A32",
-        "A31"
+        "A31",
+        "A33"
       ],
       "rooms": []
     },
@@ -185,9 +185,9 @@
         "Abhijit Das"
       ],
       "slots": [
+        "D43",
         "D41",
         "D42",
-        "D43",
         "D44"
       ],
       "rooms": []
@@ -255,9 +255,9 @@
         "Riddhiman Dhar"
       ],
       "slots": [
-        "D33",
+        "D31",
         "D32",
-        "D31"
+        "D33"
       ],
       "rooms": []
     },
@@ -287,14 +287,14 @@
       "code": "BT10001",
       "course_name": "SCIENCE OF LIVING SYSTEM",
       "professors": [
-        "Abhijit Das",
         "Soumya De",
+        "Abhijit Das",
         "Dibyendu Samanta"
       ],
       "slots": [
+        "V31",
         "V33",
-        "V32",
-        "V31"
+        "V32"
       ],
       "rooms": [
         "NR114"
@@ -329,9 +329,9 @@
         "Madhumita Paul"
       ],
       "slots": [
-        "E31",
         "E32",
-        "E33"
+        "E33",
+        "E31"
       ],
       "rooms": [
         "NC342"
@@ -366,9 +366,9 @@
         "Madhumita Paul"
       ],
       "slots": [
+        "B32",
         "B31",
-        "B33",
-        "B32"
+        "B33"
       ],
       "rooms": [
         "NR114"
@@ -403,9 +403,9 @@
         "M Amarnatha Reddy"
       ],
       "slots": [
-        "A33",
         "A32",
-        "A31"
+        "A31",
+        "A33"
       ],
       "rooms": [
         "NR114"
@@ -436,13 +436,13 @@
         "Rabibrata Mukherjee"
       ],
       "slots": [
-        "C42",
         "C43",
+        "C42",
         "C44",
         "C41"
       ],
       "rooms": [
-        "V3"
+        "NC313"
       ]
     },
     "context_profs": [
@@ -472,10 +472,10 @@
       "course_name": "MECHANICAL OPERATIONS & HEAT TRANSFER LABORATORY",
       "professors": [
         "Monojit Chakraborty",
-        "Sourav Mondal",
-        "Koustuv Ray",
-        "Nikita Dewangan",
+        "Amandeep Jindal",
         "Swati Neogi",
+        "Sourav Mondal",
+        "Nikita Dewangan",
         "Manish Kaushal"
       ],
       "slots": [
@@ -509,16 +509,16 @@
       "code": "CH39023",
       "course_name": "PROCESS EQUIPMENT DESIGN-I",
       "professors": [
-        "Ananta Kumar Sarkar",
-        "Sourav Mondal",
         "Gargi Das",
-        "Rahul Ranjan",
+        "Ananta Kumar Sarkar",
         "Swambabu Varanasi",
-        "Nikita Saxena"
+        "Sourav Mondal",
+        "Nikita Saxena",
+        "Rahul Ranjan"
       ],
       "slots": [
-        "L",
-        "H33"
+        "H33",
+        "L"
       ],
       "rooms": [
         "NC324",
@@ -555,9 +555,9 @@
         "Aritra Hazra"
       ],
       "slots": [
+        "C31",
         "C33",
-        "C32",
-        "C31"
+        "C32"
       ],
       "rooms": [
         "NC241",
@@ -629,9 +629,9 @@
         "Goutam Das"
       ],
       "slots": [
+        "D43",
         "D41",
         "D42",
-        "D43",
         "D44"
       ],
       "rooms": [
@@ -674,10 +674,10 @@
         "Goutam Das"
       ],
       "slots": [
-        "X42",
         "X43",
-        "X41",
-        "N"
+        "X42",
+        "N",
+        "X41"
       ],
       "rooms": []
     },
@@ -716,9 +716,9 @@
         "Arindam Basu"
       ],
       "slots": [
+        "C31",
         "C33",
-        "C32",
-        "C31"
+        "C32"
       ],
       "rooms": [
         "NC322"
@@ -788,9 +788,9 @@
         "Arindam Basu"
       ],
       "slots": [
+        "C31",
         "C33",
-        "C32",
-        "C31"
+        "C32"
       ],
       "rooms": [
         "NC413"
@@ -825,9 +825,9 @@
         "Goutam Das"
       ],
       "slots": [
+        "C31",
         "C33",
-        "C32",
-        "C31"
+        "C32"
       ],
       "rooms": [
         "GSCLA1"
@@ -869,8 +869,8 @@
       ],
       "slots": [
         "U33",
-        "U31",
-        "U32"
+        "U32",
+        "U31"
       ],
       "rooms": [
         "V3"
@@ -905,9 +905,9 @@
         "Suman Chakraborty"
       ],
       "slots": [
+        "D43",
         "D41",
         "D42",
-        "D43",
         "D44"
       ],
       "rooms": [
@@ -944,9 +944,9 @@
         "Santanu Chattopadhyay"
       ],
       "slots": [
+        "D43",
         "D41",
         "D42",
-        "D43",
         "D44"
       ],
       "rooms": []
@@ -981,9 +981,9 @@
         "Santanu Chattopadhyay"
       ],
       "slots": [
+        "D43",
         "D41",
         "D42",
-        "D43",
         "D44"
       ],
       "rooms": []
@@ -1019,8 +1019,8 @@
         "Santanu Chattopadhyay"
       ],
       "slots": [
-        "C42",
         "C43",
+        "C42",
         "C44",
         "C41"
       ],
@@ -1057,8 +1057,8 @@
         "Santanu Chattopadhyay"
       ],
       "slots": [
-        "C42",
         "C43",
+        "C42",
         "C44",
         "C41"
       ],
