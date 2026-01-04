@@ -10,9 +10,9 @@
         "Priyanka Dey"
       ],
       "slots": [
+        "B33",
         "B32",
-        "B31",
-        "B33"
+        "B31"
       ],
       "rooms": []
     },
@@ -78,9 +78,9 @@
         "Priyanka Dey"
       ],
       "slots": [
+        "E32",
         "E33",
-        "E31",
-        "E32"
+        "E31"
       ],
       "rooms": []
     },
@@ -113,9 +113,9 @@
         "Priyanka Dey"
       ],
       "slots": [
+        "C31",
         "C33",
-        "C32",
-        "C31"
+        "C32"
       ],
       "rooms": []
     },
@@ -145,16 +145,16 @@
       "code": "AR60202",
       "course_name": "THESIS-II",
       "professors": [
-        "Saikat Kumar Paul",
-        "Priyanka Dey",
         "Subrata Chattopadhyay",
-        "Debapratim Pandit",
         "Haimanti Banerji",
-        "Sumana Gupta"
+        "Sumana Gupta",
+        "Saikat Kumar Paul",
+        "Debapratim Pandit",
+        "Priyanka Dey"
       ],
       "slots": [
-        "X42",
         "X41",
+        "X42",
         "X44",
         "X43"
       ],
@@ -189,9 +189,9 @@
         "Priyanka Dey"
       ],
       "slots": [
+        "F31",
         "F32",
-        "F33",
-        "F31"
+        "F33"
       ],
       "rooms": []
     },
@@ -221,8 +221,8 @@
       "code": "BS10003",
       "course_name": "SCIENCE OF LIVING SYSTEMS",
       "professors": [
-        "Dibyendu Samanta",
-        "Abhijit Das"
+        "Abhijit Das",
+        "Dibyendu Samanta"
       ],
       "slots": [
         "H21",
@@ -256,14 +256,14 @@
       "code": "BS40002",
       "course_name": "MOLECULAR MICROBIOLOGY",
       "professors": [
-        "Arindam Mondal",
         "Nihar Ranjan Jana",
+        "Arindam Mondal",
         "Abhijit Das"
       ],
       "slots": [
+        "F31",
         "F32",
-        "F33",
-        "F31"
+        "F33"
       ],
       "rooms": []
     },
@@ -293,10 +293,10 @@
       "code": "BS49002",
       "course_name": "CELL BIOLOGY LABORATORY",
       "professors": [
-        "Mainak Bose",
-        "Abhijit Das",
         "Nihar Ranjan Jana",
-        "Ritobrata Goswami"
+        "Mainak Bose",
+        "Ritobrata Goswami",
+        "Abhijit Das"
       ],
       "slots": [
         "X"
@@ -329,13 +329,13 @@
       "code": "BS50004",
       "course_name": "BIOLOGICAL IMAGING: IN VIVO AND IN VITRO",
       "professors": [
-        "Abhijit Das",
-        "Ritobrata Goswami"
+        "Ritobrata Goswami",
+        "Abhijit Das"
       ],
       "slots": [
-        "V31",
         "V32",
-        "V33"
+        "V33",
+        "V31"
       ],
       "rooms": []
     },
@@ -365,8 +365,8 @@
       "code": "BS57002",
       "course_name": "PROJECT",
       "professors": [
-        "Abhijit Das",
-        "Ritobrata Goswami"
+        "Ritobrata Goswami",
+        "Abhijit Das"
       ],
       "slots": [
         "R"
@@ -399,13 +399,13 @@
       "code": "BS58002",
       "course_name": "VIVA VOCE",
       "professors": [
-        "Nihar Ranjan Jana",
-        "Dibyendu Samanta",
-        "Mainak Bose",
-        "Abhijit Das",
-        "Soumya De",
         "Ritobrata Goswami",
-        "Arindam Mondal"
+        "Abhijit Das",
+        "Dibyendu Samanta",
+        "Soumya De",
+        "Nihar Ranjan Jana",
+        "Arindam Mondal",
+        "Mainak Bose"
       ],
       "slots": [
         "O"
@@ -442,9 +442,9 @@
         "Abhijit Das"
       ],
       "slots": [
+        "C31",
         "C33",
-        "C32",
-        "C31"
+        "C32"
       ],
       "rooms": []
     },
@@ -474,13 +474,13 @@
       "code": "BT21202",
       "course_name": "CELL AND MOLECULAR BIOLOGY",
       "professors": [
-        "Dibyendu Samanta",
-        "Abhijit Das"
+        "Abhijit Das",
+        "Dibyendu Samanta"
       ],
       "slots": [
-        "C44",
         "C41",
         "C42",
+        "C44",
         "C43"
       ],
       "rooms": [
@@ -513,8 +513,8 @@
       "code": "BT29204",
       "course_name": "CELL AND MOLECULAR BIOLOGY LABORATORY",
       "professors": [
-        "Mainak Bose",
         "Nihar Ranjan Jana",
+        "Mainak Bose",
         "Ritobrata Goswami",
         "Abhijit Das"
       ],
@@ -549,16 +549,16 @@
       "code": "CE13006",
       "course_name": "INTERNET OF THINGS IN CIVIL ENGINEERING SYSTEMS",
       "professors": [
-        "Shubha Verma",
         "Debasis Roy",
         "Amit Passi",
         "Aritra Chatterjee",
+        "Dhrubajyoti Sen",
         "Nadan Maiti",
-        "Dhrubajyoti Sen"
+        "Shubha Verma"
       ],
       "slots": [
-        "S31",
-        "J"
+        "J",
+        "S31"
       ],
       "rooms": [
         "S32"
@@ -614,20 +614,20 @@
       "code": "CH31010",
       "course_name": "MASS TRANSFER II",
       "professors": [
+        "Swambabu Varanasi",
+        "Rabibrata Mukherjee",
         "Koustuv Ray",
-        "Swambabu Varanasi",
-        "Sourav Mondal",
-        "Rabibrata Mukherjee"
+        "Sourav Mondal"
       ],
       "slots": [
-        "E43",
         "E41",
-        "E42",
-        "E44"
+        "E44",
+        "E43",
+        "E42"
       ],
       "rooms": [
-        "NC122",
-        "NC221"
+        "NC221",
+        "NC122"
       ]
     },
     "context_profs": [
@@ -650,19 +650,54 @@
   },
   {
     "reasons": [
+      "TYPO"
+    ],
+    "context_course": {
+      "code": "CH39202",
+      "course_name": "PROCESS EQUIPMENT DESIGN-II",
+      "professors": [
+        "Arnab Dutta",
+        "Swambabu Varanasi",
+        "Abhishek Kumar Gupta",
+        "Sourav Mondal",
+        "Namrata Deepakrao Gaikwad",
+        "Amandeep Jindal",
+        "Joydip Chaudhuri"
+      ],
+      "slots": [
+        "L",
+        "J"
+      ],
+      "rooms": []
+    },
+    "context_profs": [
+      "Arnab Dutta",
+      {
+        "name": "Arnab Atta",
+        "department": "Chemical Engineering",
+        "dept_code": "CH",
+        "profile_url": "https://www.iitkgp.ac.in/department/CH/faculty/ch-arnab"
+      }
+    ],
+    "solutions": [
+      "FUZZY_SEARCH"
+    ]
+  },
+  {
+    "reasons": [
       "MULTINAME"
     ],
     "context_course": {
       "code": "CH39202",
       "course_name": "PROCESS EQUIPMENT DESIGN-II",
       "professors": [
-        "Sourav Mondal",
-        "Swambabu Varanasi",
         "Arnab Dutta",
+        "Swambabu Varanasi",
         "Abhishek Kumar Gupta",
-        "Joydip Chaudhuri",
+        "Sourav Mondal",
         "Namrata Deepakrao Gaikwad",
-        "Amandeep Jindal"
+        "Amandeep Jindal",
+        "Joydip Chaudhuri"
       ],
       "slots": [
         "L",
@@ -693,22 +728,26 @@
       "TYPO"
     ],
     "context_course": {
-      "code": "CH39202",
-      "course_name": "PROCESS EQUIPMENT DESIGN-II",
+      "code": "CH69202",
+      "course_name": "M-TECH LABORATORY",
       "professors": [
-        "Sourav Mondal",
-        "Swambabu Varanasi",
         "Arnab Dutta",
-        "Abhishek Kumar Gupta",
-        "Joydip Chaudhuri",
-        "Namrata Deepakrao Gaikwad",
-        "Amandeep Jindal"
+        "Monojit Chakraborty",
+        "Manish Kaushal",
+        "Koustuv Ray",
+        "Suverna Trivedi",
+        "Bhaskar Bhaduri",
+        "Rahul Ranjan",
+        "Sourav Mondal",
+        "Madhusudan Sau",
+        "Joydip Chaudhuri"
       ],
       "slots": [
-        "L",
-        "J"
+        "X"
       ],
-      "rooms": []
+      "rooms": [
+        "NC222"
+      ]
     },
     "context_profs": [
       "Arnab Dutta",
@@ -731,16 +770,16 @@
       "code": "CH69202",
       "course_name": "M-TECH LABORATORY",
       "professors": [
-        "Manish Kaushal",
-        "Rahul Ranjan",
-        "Madhusudan Sau",
-        "Suverna Trivedi",
-        "Sourav Mondal",
         "Arnab Dutta",
         "Monojit Chakraborty",
-        "Joydip Chaudhuri",
+        "Manish Kaushal",
+        "Koustuv Ray",
+        "Suverna Trivedi",
         "Bhaskar Bhaduri",
-        "Koustuv Ray"
+        "Rahul Ranjan",
+        "Sourav Mondal",
+        "Madhusudan Sau",
+        "Joydip Chaudhuri"
       ],
       "slots": [
         "X"
@@ -765,45 +804,6 @@
     ],
     "solutions": [
       "DEP_PRIORITY"
-    ]
-  },
-  {
-    "reasons": [
-      "TYPO"
-    ],
-    "context_course": {
-      "code": "CH69202",
-      "course_name": "M-TECH LABORATORY",
-      "professors": [
-        "Manish Kaushal",
-        "Rahul Ranjan",
-        "Madhusudan Sau",
-        "Suverna Trivedi",
-        "Sourav Mondal",
-        "Arnab Dutta",
-        "Monojit Chakraborty",
-        "Joydip Chaudhuri",
-        "Bhaskar Bhaduri",
-        "Koustuv Ray"
-      ],
-      "slots": [
-        "X"
-      ],
-      "rooms": [
-        "NC222"
-      ]
-    },
-    "context_profs": [
-      "Arnab Dutta",
-      {
-        "name": "Arnab Atta",
-        "department": "Chemical Engineering",
-        "dept_code": "CH",
-        "profile_url": "https://www.iitkgp.ac.in/department/CH/faculty/ch-arnab"
-      }
-    ],
-    "solutions": [
-      "FUZZY_SEARCH"
     ]
   },
   {
@@ -814,14 +814,14 @@
       "code": "CS31202",
       "course_name": "OPERATING SYSTEMS",
       "professors": [
-        "Abhijit Das",
-        "Bivas Mitra"
+        "Bivas Mitra",
+        "Abhijit Das"
       ],
       "slots": [
-        "E43",
         "E41",
-        "E42",
-        "E44"
+        "E44",
+        "E43",
+        "E42"
       ],
       "rooms": [
         "NC344",
@@ -854,8 +854,8 @@
       "code": "CS39002",
       "course_name": "OPERATING SYSTEMS LABORATORY",
       "professors": [
-        "Abhijit Das",
-        "Bivas Mitra"
+        "Bivas Mitra",
+        "Abhijit Das"
       ],
       "slots": [
         "P"
@@ -890,9 +890,9 @@
       "code": "EC29204",
       "course_name": "COMMUNICATION-I LABORATORY",
       "professors": [
-        "Debarati Sen",
+        "Goutam Das",
         "Amit Kumar Dutta",
-        "Goutam Das"
+        "Debarati Sen"
       ],
       "slots": [
         "P",
@@ -935,10 +935,10 @@
         "Goutam Das"
       ],
       "slots": [
-        "E43",
         "E41",
-        "E42",
-        "E44"
+        "E44",
+        "E43",
+        "E42"
       ],
       "rooms": [
         "NR312"
@@ -976,8 +976,8 @@
       "code": "EC39001",
       "course_name": "ANALOG COMMUNICATIONS LAB.",
       "professors": [
-        "Amit Kumar Dutta",
-        "Goutam Das"
+        "Goutam Das",
+        "Amit Kumar Dutta"
       ],
       "slots": [
         "P"
@@ -1019,9 +1019,9 @@
         "Arindam Basu"
       ],
       "slots": [
+        "E32",
         "E33",
-        "E31",
-        "E32"
+        "E31"
       ],
       "rooms": [
         "S-125"
@@ -1053,12 +1053,12 @@
       "code": "GS67122",
       "course_name": "PROJECT - 1",
       "professors": [
-        "Goutam Das",
-        "Debarati Sen",
-        "Amit Kumar Dutta",
-        "Aneek Adhya",
         "Saswat Chakrabarti",
-        "Suvra Sekhar Das"
+        "Aneek Adhya",
+        "Amit Kumar Dutta",
+        "Suvra Sekhar Das",
+        "Goutam Das",
+        "Debarati Sen"
       ],
       "slots": [
         "J"
@@ -1099,12 +1099,12 @@
       "code": "GS67124",
       "course_name": "PROJECT - 3",
       "professors": [
-        "Goutam Das",
-        "Debarati Sen",
-        "Amit Kumar Dutta",
-        "Aneek Adhya",
         "Saswat Chakrabarti",
-        "Suvra Sekhar Das"
+        "Aneek Adhya",
+        "Amit Kumar Dutta",
+        "Suvra Sekhar Das",
+        "Goutam Das",
+        "Debarati Sen"
       ],
       "slots": [
         "K"
@@ -1145,20 +1145,20 @@
       "code": "ME13002",
       "course_name": "ENGINEERING AND MACHINE DRAWING",
       "professors": [
+        "Aswani Kumar Singh",
         "Pabitra Badhuk",
-        "Sanjay Gupta",
         "Korak Sarkar",
-        "Aswani Kumar Singh"
+        "Sanjay Gupta"
       ],
       "slots": [
         "L",
+        "H33",
         "M",
-        "F32",
-        "H33"
+        "F32"
       ],
       "rooms": [
-        "S32",
-        "S31"
+        "S31",
+        "S32"
       ]
     },
     "context_profs": [
@@ -1177,9 +1177,9 @@
       "code": "ME29204",
       "course_name": "WORKSHOP PRACTICE",
       "professors": [
+        "Venkata Naga Vamsi Munagala",
         "Sushanta Kumar Panda",
         "Siddharth Tamang",
-        "Venkata Naga Vamsi Munagala",
         "Aswani Kumar Singh"
       ],
       "slots": [
@@ -1203,10 +1203,10 @@
       "code": "ME29206",
       "course_name": "WORKSHOP PRACTICE",
       "professors": [
+        "Aswani Kumar Singh",
         "Sushanta Kumar Panda",
         "Siddharth Tamang",
-        "Venkata Naga Vamsi Munagala",
-        "Aswani Kumar Singh"
+        "Venkata Naga Vamsi Munagala"
       ],
       "slots": [
         "L",
@@ -1234,10 +1234,10 @@
         "Suman Chakraborty"
       ],
       "slots": [
-        "F42",
-        "F41",
+        "F43",
         "F44",
-        "F43"
+        "F41",
+        "F42"
       ],
       "rooms": [
         "NC142"
@@ -1269,9 +1269,9 @@
       "code": "ME69145",
       "course_name": "SEMINAR",
       "professors": [
-        "Venkata Naga Vamsi Munagala",
+        "Aswani Kumar Singh",
         "Partha Saha",
-        "Aswani Kumar Singh"
+        "Venkata Naga Vamsi Munagala"
       ],
       "slots": [
         "N"
@@ -1301,9 +1301,9 @@
         "Ajay Kumar Singh"
       ],
       "slots": [
-        "A33",
+        "A32",
         "A31",
-        "A32"
+        "A33"
       ],
       "rooms": [
         "NR321"
@@ -1325,16 +1325,16 @@
       "code": "PH39204",
       "course_name": "NUCLEAR PHYSICS LAB",
       "professors": [
+        "Sandipan Sengupta",
         "Gholam Wahid Shaikh",
         "Ajay Kumar Singh",
-        "Tirtha Sankar Ray",
-        "Sandipan Sengupta"
+        "Tirtha Sankar Ray"
       ],
       "slots": [
         "L",
+        "P",
         "J",
-        "N",
-        "P"
+        "N"
       ],
       "rooms": []
     },
@@ -1354,15 +1354,15 @@
       "code": "RT60002",
       "course_name": "RUBBER PRODUCT MANUFACTURING TECHNOLOGY",
       "professors": [
+        "Narayan Chandra Das",
         "Soumyadip Choudhury",
-        "Titash Mondal",
-        "Narayan Chandra Das"
+        "Titash Mondal"
       ],
       "slots": [
-        "E43",
         "E41",
-        "E42",
-        "E44"
+        "E44",
+        "E43",
+        "E42"
       ],
       "rooms": []
     },
@@ -1392,14 +1392,14 @@
       "code": "RT60016",
       "course_name": "ENGINEERING DESIGN WITH RUBBER",
       "professors": [
+        "Mythravaruni Pullela",
         "Santanu Chattopadhyay",
-        "Kinsuk Naskar",
-        "Mythravaruni Pullela"
+        "Kinsuk Naskar"
       ],
       "slots": [
-        "C44",
         "C41",
         "C42",
+        "C44",
         "C43"
       ],
       "rooms": []
@@ -1430,13 +1430,13 @@
       "code": "RT60020",
       "course_name": "CHARACTERIZATION OF RUBBER AND RUBBER LIKE MATERIALS",
       "professors": [
-        "Santanu Chattopadhyay",
-        "Nikhil Kumar Singha"
+        "Nikhil Kumar Singha",
+        "Santanu Chattopadhyay"
       ],
       "slots": [
+        "B33",
         "B32",
-        "B31",
-        "B33"
+        "B31"
       ],
       "rooms": []
     },
@@ -1466,13 +1466,13 @@
       "code": "RT60022",
       "course_name": "TYRE TECHNOLOGY",
       "professors": [
-        "Narayan Chandra Das",
-        "Mythravaruni Pullela"
+        "Mythravaruni Pullela",
+        "Narayan Chandra Das"
       ],
       "slots": [
-        "D33",
+        "D31",
         "D32",
-        "D31"
+        "D33"
       ],
       "rooms": []
     },
@@ -1502,15 +1502,15 @@
       "code": "RT69004",
       "course_name": "RUBBER LABORATORY-II",
       "professors": [
+        "Mythravaruni Pullela",
         "Narayan Chandra Das",
-        "Titash Mondal",
-        "Mythravaruni Pullela"
+        "Titash Mondal"
       ],
       "slots": [
+        "X42",
         "X43",
         "X41",
         "N",
-        "X42",
         "X44"
       ],
       "rooms": []

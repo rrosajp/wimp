@@ -32,11 +32,10 @@ function Table() {
       {selectedProfessor && (
         <div className="table-container">
           <div className="table-caption">
-            <span>
-              <a href={`${selectedProfessor.prof.profile_url}`} target="_blank">
-                {selectedProfessor.prof.name}
-              </a>
-            </span>
+            <span className="space"></span>
+            <a href={`${selectedProfessor.prof.profile_url}`} target="_blank">
+              {selectedProfessor.prof.name}
+            </a>
             <span className="dept space">|</span>
             <span className="dept">{selectedProfessor.prof.dept_code}</span>
           </div>
@@ -69,7 +68,6 @@ function Table() {
                             <div
                               key={course.course_code}
                               className="tt-cell-content"
-                              title={course.course_name}
                             >
                               <p className="room">
                                 {course.rooms.length > 0
@@ -77,7 +75,8 @@ function Table() {
                                   : "N/A"}
                               </p>
                               <p className="course-code">
-                                ({course.course_code})
+                                ({course.course_code}) <br />
+                                {course.course_name}
                               </p>
                             </div>
                           ))}
